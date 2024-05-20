@@ -19,8 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ## Imagenes
-![image](https://github.com/SantosM128/Act11Santos0415/assets/144056309/41618c9a-d4f4-4010-bdbc-e4b9848cdd81)
-![image](https://github.com/SantosM128/Act11Santos0415/assets/144056309/a716b77c-7084-4549-8680-edb701b7c4f5)
-![image](https://github.com/SantosM128/Act11Santos0415/assets/144056309/fc1cb211-5863-4dfa-a715-dd4e91d696e4)
-![image](https://github.com/SantosM128/Act11Santos0415/assets/144056309/788adcf2-87f1-4eea-8a01-4ca42a094aac)
-![image](https://github.com/SantosM128/Act11Santos0415/assets/144056309/fe7d382d-9638-45b8-873f-a2d1421651fd)
+![image](https://github.com/SantosM128/Act11Santos0415/assets/144056309/f3ac760a-c875-469b-b67b-d21bc2b57e38)
+![image](https://github.com/SantosM128/Act11Santos0415/assets/144056309/96185879-30f0-491d-b85e-495fc0cef2f3)
+![image](https://github.com/SantosM128/Act11Santos0415/assets/144056309/dbb1d163-a984-419b-b457-2041713cd20e)
+![image](https://github.com/SantosM128/Act11Santos0415/assets/144056309/e5a8a175-49e1-43c9-a4d7-d805c0b755de)
+![image](https://github.com/SantosM128/Act11Santos0415/assets/144056309/07bb7100-f698-4b71-a47c-d64dd7b6c396)
+
